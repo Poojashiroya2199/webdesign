@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "slug": "my-first-task",
+      "description": "This 1st task involved.....",
+      "insights": "We found ...."
+    },
+    {
+      "top": "my-second-task",
+      "description": "This 2nd task involved.....",
+      "insights": "We found ...."
+    },
+    {
+      "jeans": "my-third-task",
+      "description": "This 3rd task involved.....",
+      "insights": "We found ...."
+    },
+    {
+      "tshirt": "my-fourth-task",
+      "description": "This 4th task involved.....",
+      "insights": "We found ...."
+    },
+    {
+      "gown": "my-fifth-task",
+      "description": "This 5th task involved.....",
+      "insights": "We found ...."
+    },
+    {
+      "dress": "my-sixth-task",
+      "description": "This 6th task involved.....",
+      "insights": "We found ...."
+    }
+  ]
+}
